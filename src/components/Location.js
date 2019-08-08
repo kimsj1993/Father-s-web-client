@@ -1,4 +1,5 @@
 import * as React from 'react';
+import '../scss/main.scss'
 
 
 
@@ -38,7 +39,7 @@ class Location extends React.Component {
                                                  
       render() {
         return (
-          <div id={this.props.name} style={{height:'500px', width:'400px', margin:'0 auto'}}></div>
+          <div id={this.props.name} className="map"></div>
         );
       }
 }
