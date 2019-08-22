@@ -4,7 +4,7 @@ import { BrowserRouter } from 'react-router-dom';
 import Header from './Header'
 import Footer from './Footer'
 import Introduction from './Introduction'
-import IntroReviews from './IntroReviews'
+import Reviews from './Reviews'
 import Result from './Result'
 import LocationContainer from './LocationContainer';
 
@@ -20,7 +20,7 @@ class App extends Component {
             <Header />
             <Introduction />
             <Result />
-            <IntroReviews />
+            <Reviews />
             <LocationContainer />
         
 
