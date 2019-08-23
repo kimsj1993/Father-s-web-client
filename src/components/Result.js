@@ -15,7 +15,7 @@ const Result = () => {
                     <div className="result-box ">
                         <h3 className="heading-tertiary u-margin-bottom-small">첫번째</h3>
                         <p>
-                        체형교정 운동으로 발목 무릅 골반 허리 목 어깨 머리 턱관절 통증 제로로 만듭시다!
+                        체형교정 운동으로 발목 무릎 골반 허리 목 어깨 머리 턱관절 통증 제로로 만듭시다!
                         </p>
                    </div>
                 </div>

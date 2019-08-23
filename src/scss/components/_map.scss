@@ -6,12 +6,12 @@
 
 
     @include respond(tab-port) {
-        width: 40rem;
+        width: 50rem;
         height: 40em;
     }
     @include respond(phone) {
-        height: 35em;
-        width: 20rem;
+        height: 40em;
+        width: 35rem;
 
     }
 
